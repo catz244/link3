@@ -1,0 +1,39 @@
+.header{
+    box-shadow : 5px 5px 5px darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    margin-top : 0px;
+    width:100%;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.heading_div{
+    background : white;
+    border-radius: 10px;
+    font-size: 20px;
+    color: black;
+    float:none;
+    padding-bottom: 5px;
+    padding-top : 5px;
+}
+
+.object_name , .accuracy_value{
+    box-shadow: 5px 5px 5px red;
+}
+
+#copy_right_footer{
+    position : fixed;
+    background-color: grey;
+    text-align: center;
+    bottom : 0;
+    width : 100%;
+    line-height: 3;
+    color : white;
+}
+
+canvas{
+    border-radius: 10px;
+    border : 5px brown solid;
+    margin-top : 120px;
+    box-shadow: 10px 10px 10px tomato;
+}
